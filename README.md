@@ -20,7 +20,7 @@ Automated unit tests (pytest) for the **Student Portal - Attendance & Result Man
 2. **Storage** - `Storage.get`, `set`, `log_activity`, start-up / `initialize_all_data`
 3. **Student analytics** - `StudentDashboard.overall_attendance`, `average_grade`, `load_course_wise_attendance`, `filter_attendance_log`, `filter_course_results`, `load_my_courses`
 
-## Setup (about 2 minutes)
+## Setup 
 ```bash
 git clone <repo-url>
 cd SQE-Unit-Test-Automation
