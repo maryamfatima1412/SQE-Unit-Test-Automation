@@ -1,0 +1,6 @@
+case_id,percentages,approved,expected_grade,expected_count,expected_average
+AVG-03,80|100,Y|Y,A+,2,90.0
+AVG-04,70|100,Y|N,B,1,70.0
+AVG-05,,,-,0,0
+AVG-07,49.99,Y,F,1,49.99
+AVG-10,40|90,Y|Y,B-,2,65.0

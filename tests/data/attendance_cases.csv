@@ -1,0 +1,6 @@
+case_id,statuses,expected_total,expected_present,expected_percent
+ATT-02,present|late|absent|present,4,3,75
+ATT-03,absent|absent,2,0,0
+ATT-06,late|late|late,3,3,100
+ATT-11,excused|present,2,1,50
+ATT-12,,0,0,0

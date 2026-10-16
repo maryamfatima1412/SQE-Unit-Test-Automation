@@ -1,0 +1,7 @@
+percentage,expected_grade
+90,A+
+89.99,A
+75,B+
+74.99,B
+50,C-
+49.99,F
