@@ -4,3 +4,6 @@ ATT-03,absent|absent,2,0,0
 ATT-06,late|late|late,3,3,100
 ATT-11,excused|present,2,1,50
 ATT-12,,0,0,0
+ATT-H1,present|present|present,3,3,100
+ATT-H2,absent|excused,2,0,0
+ATT-H3,present|absent,2,1,50
